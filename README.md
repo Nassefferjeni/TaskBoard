@@ -1,2 +1,4 @@
-# TaskBoard
-Streamline task management with our intuitive project collaboration tool designed to enhance productivity and teamwork
+// first step: go to clerk and then prepare the .env.local file
+
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_YmFsYW5jZWQtaGF3ay03NS5jbGVyay5hY2NvdW50cy5kZXYk
+CLERK_SECRET_KEY=sk_test_QDqHfVmPsYagse6ELjOpic48p3VffRfBM6nfMBdp8U
